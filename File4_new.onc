@@ -6,10 +6,10 @@
       "Name": "ssd-guest",
       "Type": "WiFi",
       "WiFi": {
-        "AutoConnect": true,
+        "AutoConnect": false,
         "HiddenSSID": false,
-        "SSID": "ssd-guest",
-        "Passphrase": "sherwood",
+        "SSID": "milo",
+        "Passphrase": "Green777",
         "Security": "WPA-PSK"
       },
       "NameServersConfigType": "Static",
