@@ -3,13 +3,13 @@
   "NetworkConfigurations": [
     {
       "GUID": "{0f676d08-1204-4e22-a68b-da78dceffa38}",
-      "Name": "ssd-guest",
+      "Name": "Milo-5G",
       "Type": "WiFi",
       "WiFi": {
         "AutoConnect": true,
         "HiddenSSID": false,
-        "SSID": "ssd-guest",
-        "Passphrase": "sherwood",
+        "SSID": "Milo-5G",
+        "Passphrase": "Green777",
         "Security": "WPA-PSK"
       },
       "NameServersConfigType": "Static",
