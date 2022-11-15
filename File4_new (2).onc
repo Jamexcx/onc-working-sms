@@ -2,11 +2,11 @@
   "Type": "UnencryptedConfiguration",
   "NetworkConfigurations": [
     {
-      "GUID": "{0f676d08-1204-4e22-a68b-da78dceffa38}",
+      "GUID": "{26156fa0-2a3e-4eff-9ae3-336429e4a1e8}",
       "Name": "Milo-5G",
       "Type": "WiFi",
       "WiFi": {
-        "AutoConnect": true,
+        "AutoConnect": false,
         "HiddenSSID": false,
         "SSID": "Milo-5G",
         "Passphrase": "Green777",
